@@ -36,8 +36,11 @@ All required libraries are listed in `requirements.txt`. Key packages:
 
 
 ### ROC Curve Comparison
-![ROC Curve](<img width="1110" height="872" alt="roc_curve" src="https://github.com/user-attachments/assets/1e18e124-2f79-4f86-9549-7e00ab1bd639" />
+![ROC Curve](<img width="1110" height="872" alt="roc_curve" src="https://github.com/user-attachments/assets/3ea0c141-27ab-42bb-9623-f98469dd8d60" />
+
 )
+
+
 Install dependencies with:
 
 ```bash
