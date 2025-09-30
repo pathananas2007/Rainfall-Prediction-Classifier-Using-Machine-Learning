@@ -38,4 +38,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+### ROC Curve Comparison
+![ROC Curve](https://github.com/user-attachments/assets/1c814834-f1c1-40fc-8381-02c9f6a0cefe)
+
 
