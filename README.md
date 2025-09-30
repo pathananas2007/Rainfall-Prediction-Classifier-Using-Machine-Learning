@@ -34,3 +34,6 @@ All required libraries are listed in `requirements.txt`. Key packages:
 Install dependencies with:  
 ```bash
 pip install -r requirements.txt
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Issues](https://img.shields.io/github/issues/pathananas2007/Rainfall-Prediction-Classifier-Using-Machine-Learning)
