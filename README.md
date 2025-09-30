@@ -34,12 +34,12 @@ All required libraries are listed in `requirements.txt`. Key packages:
 - matplotlib
 - seaborn
 
+
+### ROC Curve Comparison
+![ROC Curve](<img width="1110" height="872" alt="roc_curve" src="https://github.com/user-attachments/assets/1e18e124-2f79-4f86-9549-7e00ab1bd639" />
+)
 Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-### ROC Curve Comparison
-![ROC Curve](<img width="1110" height="872" alt="roc_curve" src="https://github.com/user-attachments/assets/1e18e124-2f79-4f86-9549-7e00ab1bd639" />
-)
-
 
