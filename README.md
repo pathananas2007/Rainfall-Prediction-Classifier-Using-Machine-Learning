@@ -1,37 +1,40 @@
 # Rainfall Prediction Classifier Using Machine Learning
 
-**Author:** [@pathananas2007](https://github.com/pathananas2007)  
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pathananas2007/Rainfall-Prediction-Classifier-Using-Machine-Learning/blob/main/final%202.ipynb)
 
-## 📄 Project Overview
-This project implements an **end-to-end machine learning pipeline** to predict rainfall in Melbourne using historical weather data. The workflow includes:  
-- Data cleaning and filtering  
-- Feature engineering (Date → Season)  
-- Preprocessing pipelines (scaling + encoding)  
-- Model building and hyperparameter tuning for:  
-  - Random Forest  
-  - Logistic Regression  
-  - SVM  
-  - KNN  
-  - Gradient Boosting  
-  - XGBoost  
-- Model evaluation using **accuracy, confusion matrices, classification reports, ROC curves, and AUC scores**  
-- Comparison of models to select the best performer  
+**Author:** [@pathananas2007](https://github.com/pathananas2007)
+
+---
+
+## 📄 About
+End-to-end **Rainfall Prediction pipeline** using Python. Implements **data cleaning, feature engineering (Season), preprocessing, and multiple ML models** (Random Forest, XGBoost, SVM, KNN, Logistic Regression, Gradient Boosting) with **hyperparameter tuning, evaluation, and model comparison**.
+
+---
 
 ## 📊 Dataset
 - **File:** `data final.csv`  
 - **Source:** [Australian Government Bureau of Meteorology – Climate Data Online](http://www.bom.gov.au/climate/dwo/)  
-- Contains cleaned weather data for Melbourne, Melbourne Airport, and Watsonia.  
+- Contains cleaned weather data for Melbourne, Melbourne Airport, and Watsonia.
+
+---
+
+## 🐍 Python Version
+This project is tested with **Python 3.11**.
+
+---
 
 ## 🛠 Dependencies
-All required libraries are listed in `requirements.txt`. Key packages:  
-- pandas  
-- numpy  
-- scikit-learn  
-- xgboost  
-- matplotlib  
-- seaborn  
+All required libraries are listed in `requirements.txt`. Key packages:
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- matplotlib
+- seaborn
 
-Install dependencies with:  
+Install dependencies with:
+
 ```bash
 pip install -r requirements.txt
-
